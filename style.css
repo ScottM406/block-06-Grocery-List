@@ -1,0 +1,111 @@
+body {
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 80%;
+  background-image: url(./produce.jpg);
+  background-color: #cccccc;
+  background-size: cover;
+}
+
+#main-header {    
+  margin-left: 150px;
+  margin-right: 150px;
+  border-width: 3;
+  border-style: solid;
+  border-color: rgb(231, 213, 174);
+  text-align: center;
+  padding: 10px;
+  background-color:rgba(83, 44, 15, 0.884);
+  color: rgb(231, 213, 174);
+}
+
+#main-heading-text {
+  text-align: center;
+  font-size: 36;
+}
+
+.category {
+  height: 350;
+  background-color: rgba(233, 163, 33, 0.884);
+  margin-left: 150px;
+  margin-right: 150px;
+  border-width: 3;
+  border-style: solid;
+  border-color: rgb(231, 213, 174);
+}
+
+.item-classes {
+  height: 50px;
+  margin-top: 0px;
+  margin-bottom:0px;
+  padding-top: 15px;
+  text-indent: 10%;
+  color: rgb(83, 44, 15);
+
+}
+
+.item-subclasses {
+  text-align: center;
+}
+
+.sub-category-lefthand {
+  height: 250;
+  width: 300;
+  border-width: 4;
+  border-style: solid;
+  border-color: rgb(231, 213, 174);
+  margin-left: 10;
+  margin-right: 0;
+  float: left;
+  background-color: rgba(83, 44, 15, 0.61);
+  
+}
+
+.sub-category-righthand {
+  height: 250;
+  width: 300;
+  border-width: 4;
+  border-style: solid;
+  border-color: rgb(231, 213, 174);
+  float: left;
+  margin-left: 2%;
+  background-color: rgba(83, 44, 15, 0.61);
+
+}
+
+.photo {
+  height:250;
+  width: 500;
+  border-width: 4;
+  border-style: solid;
+  border-color: rgb(231, 213, 174);
+  float:left;
+  margin-left: 3%;
+  border-radius: 20%;
+}
+
+.bottom-accent {
+  border-top: 3;
+  border-width: 3;
+  border-style: solid;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-color: rgb(231, 213, 174);
+}
+
+h2 {
+  font-size: 40;
+  background-color: rgba(233, 163, 33, 0.55);
+  margin-left: 10%;
+
+}
+
+h3 {
+  font-size: 26;
+
+}
+
+li {
+  font-size: 20;
+  color: rgb(231, 213, 174);
+}
